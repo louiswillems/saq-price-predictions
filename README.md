@@ -14,8 +14,7 @@ In this machine learning pipeline, we will :
 - Naive Baseline
 - Feature Engineering & Model Selection
 - Model Evaluation on test data
-- Model Analysis (Interpreting results)
-- Finalize & Save the model
+- Model Analysis (Interpretability)
 - Conclusion
 
 *Important: For the purpose of our project, we will follow these steps in a linear fashion but machine learning pipeline is an iterative procedure.*
