@@ -1,4 +1,4 @@
-﻿# Predicting red wine price from SAQ.com (Société des alcools du Québec)
+﻿# Predicting red wine prices from SAQ.com (Société des alcools du Québec)
 
 <br>
 
