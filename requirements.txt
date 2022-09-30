@@ -10,7 +10,7 @@ d6tpipe==1.2.6
 docutils==0.15.2
 graphviz==0.13.2
 jmespath==0.9.4
-joblib==0.14.0
+joblib==1.2.0
 kiwisolver==1.1.0
 lockfile==0.12.2
 luigi==2.8.9
